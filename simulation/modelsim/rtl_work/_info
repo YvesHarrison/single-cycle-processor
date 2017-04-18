@@ -1,0 +1,265 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0\OnePunchCPU\simulation\modelsim
+valu
+!i10b 1
+!s100 ezAXod>oPBUM71ELi`5U02
+I;WCNCMb7M>R[4SoAeHKf:3
+VKc:bVz32gc5X2ZbjUde9O3
+Z1 dC:\altera\13.0\OnePunchCPU\simulation\modelsim
+w1305034416
+8C:/altera/13.0/OnePunchCPU/source/alu.v
+FC:/altera/13.0/OnePunchCPU/source/alu.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1462594461.053000
+!s107 C:/altera/13.0/OnePunchCPU/source/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.0/OnePunchCPU/source|C:/altera/13.0/OnePunchCPU/source/alu.v|
+!s101 -O0
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work +incdir+C:/altera/13.0/OnePunchCPU/source -O0
+vdff32
+Ij<90;hSRQLg[@GWO4T5:D3
+VUO7_EzIi9>SeN7M;XG9<c0
+R1
+w1305031718
+8C:/altera/13.0/OnePunchCPU/source/dff32.v
+FC:/altera/13.0/OnePunchCPU/source/dff32.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 >ko_LI7[^MH2>XTb7TTEe2
+!s85 0
+!s108 1462594460.676000
+!s107 C:/altera/13.0/OnePunchCPU/source/dff32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.0/OnePunchCPU/source|C:/altera/13.0/OnePunchCPU/source/dff32.v|
+!s101 -O0
+vlpm_ram_dq_dram
+IfL:1^R:25;A?XXYFFW`ND3
+V;^>UgMFOjF@EZ@A<NMAW`0
+R1
+w1305005947
+8C:/altera/13.0/OnePunchCPU/source/lpm_ram_dq_dram.v
+FC:/altera/13.0/OnePunchCPU/source/lpm_ram_dq_dram.v
+L0 39
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 XmaR_6nGLbJ_Q<_J;T6D?1
+!s85 0
+!s108 1462594460.279000
+!s107 C:/altera/13.0/OnePunchCPU/source/lpm_ram_dq_dram.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.0/OnePunchCPU/source|C:/altera/13.0/OnePunchCPU/source/lpm_ram_dq_dram.v|
+!s101 -O0
+vlpm_rom_irom
+ICS@J_K>UPBZ^JUFARDT>`2
+V6I?:oUA0HYdli42?U:6:L0
+R1
+w1305004957
+8C:/altera/13.0/OnePunchCPU/source/lpm_rom_irom.v
+FC:/altera/13.0/OnePunchCPU/source/lpm_rom_irom.v
+L0 39
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 @S`YKJ_T9?obND9n:KJM<1
+!s85 0
+!s108 1462594459.926000
+!s107 C:/altera/13.0/OnePunchCPU/source/lpm_rom_irom.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.0/OnePunchCPU/source|C:/altera/13.0/OnePunchCPU/source/lpm_rom_irom.v|
+!s101 -O0
+vmux2x32
+Ie[33;Phk6VZE<;Ak3JZeb0
+V_8o=]o8CzEDeX@^n?a@zP3
+R1
+w1252908544
+8C:/altera/13.0/OnePunchCPU/source/mux2x32.v
+FC:/altera/13.0/OnePunchCPU/source/mux2x32.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 [[K=]2hjlZX[QZXinS^M[2
+!s85 0
+!s108 1462594459.066000
+!s107 C:/altera/13.0/OnePunchCPU/source/mux2x32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.0/OnePunchCPU/source|C:/altera/13.0/OnePunchCPU/source/mux2x32.v|
+!s101 -O0
+vmux2x5
+IW_FXa_DcDA6SYRZUYXb=H0
+Vah3g>_]Y^Qz2GXD7HR^<<3
+R1
+w1253170143
+8C:/altera/13.0/OnePunchCPU/source/mux2x5.v
+FC:/altera/13.0/OnePunchCPU/source/mux2x5.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 =H7`TgnHU^Rk5Oa6hD0]>2
+!s85 0
+!s108 1462594459.418000
+!s107 C:/altera/13.0/OnePunchCPU/source/mux2x5.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.0/OnePunchCPU/source|C:/altera/13.0/OnePunchCPU/source/mux2x5.v|
+!s101 -O0
+vmux4x32
+II07ccUbbRIGD:@UZdE[G^3
+VM:hYY`k:C]4^:^k7d8C]M0
+R1
+w1252998688
+8C:/altera/13.0/OnePunchCPU/source/mux4x32.v
+FC:/altera/13.0/OnePunchCPU/source/mux4x32.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 mLed;?5Mo9gLaf0X>a3cR0
+!s85 0
+!s108 1462594458.683000
+!s107 C:/altera/13.0/OnePunchCPU/source/mux4x32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.0/OnePunchCPU/source|C:/altera/13.0/OnePunchCPU/source/mux4x32.v|
+!s101 -O0
+vregfile
+IK92T28AKoN08Qb9VG<z2n2
+VHL?YD<z4Tlb1gm`0^XW@D2
+R1
+w1462545658
+8C:/altera/13.0/OnePunchCPU/source/regfile.v
+FC:/altera/13.0/OnePunchCPU/source/regfile.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 JIje3N_@e8aeEo^z87DVf3
+!s85 0
+!s108 1462594458.236000
+!s107 C:/altera/13.0/OnePunchCPU/source/regfile.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.0/OnePunchCPU/source|C:/altera/13.0/OnePunchCPU/source/regfile.v|
+!s101 -O0
+vsc_computer
+IY[U8jcOLdcB2dG0n]6VgY2
+VA?:=4WmNzCAg>]eeU^<8X0
+R1
+w1305084668
+8C:/altera/13.0/OnePunchCPU/source/sc_computer.v
+FC:/altera/13.0/OnePunchCPU/source/sc_computer.v
+L0 7
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 S0WSAW7_:b6iCD^;2C7B`2
+!s85 0
+!s108 1462594457.880000
+!s107 C:/altera/13.0/OnePunchCPU/source/sc_computer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.0/OnePunchCPU/source|C:/altera/13.0/OnePunchCPU/source/sc_computer.v|
+!s101 -O0
+vsc_cpu
+I>Im4a_Fh]DjGhbgXS3b8T3
+V:mi8;^<LZUMNBc_]kEVbj2
+R1
+w1462543377
+8C:/altera/13.0/OnePunchCPU/source/sc_cpu.v
+FC:/altera/13.0/OnePunchCPU/source/sc_cpu.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 A9I^96k>Wia6[in]PTfS91
+!s85 0
+!s108 1462594457.523000
+!s107 C:/altera/13.0/OnePunchCPU/source/sc_cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.0/OnePunchCPU/source|C:/altera/13.0/OnePunchCPU/source/sc_cpu.v|
+!s101 -O0
+vsc_cu
+IE7PmhJ_CBkPmE>]IK7^Sc2
+VAlN72Pg@l_c4ao;V0co7c3
+R1
+w1462179348
+8C:/altera/13.0/OnePunchCPU/source/sc_cu.v
+FC:/altera/13.0/OnePunchCPU/source/sc_cu.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 6dLlSTjHDG8f?dC@m1X212
+!s85 0
+!s108 1462594456.971000
+!s107 C:/altera/13.0/OnePunchCPU/source/sc_cu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.0/OnePunchCPU/source|C:/altera/13.0/OnePunchCPU/source/sc_cu.v|
+!s101 -O0
+vsc_datamem
+IbgEB2GgMJ6S;1Y<LkF_ei3
+Vhmdc>^=5cMSCc>e^C5BHk3
+R1
+w1305039298
+8C:/altera/13.0/OnePunchCPU/source/sc_datamem.v
+FC:/altera/13.0/OnePunchCPU/source/sc_datamem.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 XN9fF4;1a2D2=g=0[7XLe3
+!s85 0
+!s108 1462594456.500000
+!s107 C:/altera/13.0/OnePunchCPU/source/sc_datamem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.0/OnePunchCPU/source|C:/altera/13.0/OnePunchCPU/source/sc_datamem.v|
+!s101 -O0
+vsc_instmem
+IbT<U6RTk;7ITczCU=ff5i1
+VkU`UIUgSeP=c3TJLN64XO2
+R1
+w1305084523
+8C:/altera/13.0/OnePunchCPU/source/sc_instmen.v
+FC:/altera/13.0/OnePunchCPU/source/sc_instmen.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 6zDKaPj^lRn>W:VW6KHKU2
+!s85 0
+!s108 1462594456.144000
+!s107 C:/altera/13.0/OnePunchCPU/source/sc_instmen.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.0/OnePunchCPU/source|C:/altera/13.0/OnePunchCPU/source/sc_instmen.v|
+!s101 -O0

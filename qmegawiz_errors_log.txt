@@ -1,0 +1,6 @@
+
+
+D:/OnePunchCPU/source/lpm_rom_irom.v
+
+Jun 16 02PM:18:01>: Megafunction LPM_ROM is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted

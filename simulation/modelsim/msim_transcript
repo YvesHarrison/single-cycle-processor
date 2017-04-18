@@ -1,0 +1,117 @@
+# Reading C:/altera/13.0/modelsim_ase/tcl/vsim/pref.tcl 
+# do OnePunchCPU_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.0\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.0\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+C:/altera/13.0/OnePunchCPU/source {C:/altera/13.0/OnePunchCPU/source/sc_instmen.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module sc_instmem
+# 
+# Top level modules:
+# 	sc_instmem
+# vlog -vlog01compat -work work +incdir+C:/altera/13.0/OnePunchCPU/source {C:/altera/13.0/OnePunchCPU/source/sc_datamem.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module sc_datamem
+# 
+# Top level modules:
+# 	sc_datamem
+# vlog -vlog01compat -work work +incdir+C:/altera/13.0/OnePunchCPU/source {C:/altera/13.0/OnePunchCPU/source/sc_cu.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module sc_cu
+# 
+# Top level modules:
+# 	sc_cu
+# vlog -vlog01compat -work work +incdir+C:/altera/13.0/OnePunchCPU/source {C:/altera/13.0/OnePunchCPU/source/sc_cpu.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module sc_cpu
+# 
+# Top level modules:
+# 	sc_cpu
+# vlog -vlog01compat -work work +incdir+C:/altera/13.0/OnePunchCPU/source {C:/altera/13.0/OnePunchCPU/source/sc_computer.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module sc_computer
+# 
+# Top level modules:
+# 	sc_computer
+# vlog -vlog01compat -work work +incdir+C:/altera/13.0/OnePunchCPU/source {C:/altera/13.0/OnePunchCPU/source/regfile.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module regfile
+# 
+# Top level modules:
+# 	regfile
+# vlog -vlog01compat -work work +incdir+C:/altera/13.0/OnePunchCPU/source {C:/altera/13.0/OnePunchCPU/source/mux4x32.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mux4x32
+# 
+# Top level modules:
+# 	mux4x32
+# vlog -vlog01compat -work work +incdir+C:/altera/13.0/OnePunchCPU/source {C:/altera/13.0/OnePunchCPU/source/mux2x32.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mux2x32
+# 
+# Top level modules:
+# 	mux2x32
+# vlog -vlog01compat -work work +incdir+C:/altera/13.0/OnePunchCPU/source {C:/altera/13.0/OnePunchCPU/source/mux2x5.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mux2x5
+# 
+# Top level modules:
+# 	mux2x5
+# vlog -vlog01compat -work work +incdir+C:/altera/13.0/OnePunchCPU/source {C:/altera/13.0/OnePunchCPU/source/lpm_rom_irom.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module lpm_rom_irom
+# 
+# Top level modules:
+# 	lpm_rom_irom
+# vlog -vlog01compat -work work +incdir+C:/altera/13.0/OnePunchCPU/source {C:/altera/13.0/OnePunchCPU/source/lpm_ram_dq_dram.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module lpm_ram_dq_dram
+# 
+# Top level modules:
+# 	lpm_ram_dq_dram
+# vlog -vlog01compat -work work +incdir+C:/altera/13.0/OnePunchCPU/source {C:/altera/13.0/OnePunchCPU/source/dff32.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module dff32
+# 
+# Top level modules:
+# 	dff32
+# vlog -vlog01compat -work work +incdir+C:/altera/13.0/OnePunchCPU/source {C:/altera/13.0/OnePunchCPU/source/alu.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module alu
+# 
+# Top level modules:
+# 	alu
+# 
+vsim +altera -do OnePunchCPU_run_msim_rtl_verilog.do -l msim_transcript -gui work.sc_computer
+# vsim +altera -do OnePunchCPU_run_msim_rtl_verilog.do -l msim_transcript -gui work.sc_computer 
+# Loading work.sc_computer
+# Loading work.sc_cpu
+# Loading work.dff32
+# Loading work.sc_cu
+# Loading work.mux2x32
+# Loading work.mux2x5
+# Loading work.mux4x32
+# Loading work.regfile
+# Loading work.alu
+# Loading work.sc_instmem
+# Loading work.lpm_rom_irom
+# ** Error: (vsim-3033) C:/altera/13.0/OnePunchCPU/source/lpm_rom_irom.v(81): Instantiation of 'altsyncram' failed. The design unit was not found.
+# 
+#         Region: /sc_computer/imem/irom
+#         Searched libraries:
+#             C:/altera/13.0/OnePunchCPU/simulation/modelsim/rtl_work
+# Loading work.sc_datamem
+# Loading work.lpm_ram_dq_dram
+# ** Error: (vsim-3033) C:/altera/13.0/OnePunchCPU/source/lpm_ram_dq_dram.v(85): Instantiation of 'altsyncram' failed. The design unit was not found.
+# 
+#         Region: /sc_computer/dmem/dram
+#         Searched libraries:
+#             C:/altera/13.0/OnePunchCPU/simulation/modelsim/rtl_work
+# Error loading design
